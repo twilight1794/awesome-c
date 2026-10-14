@@ -1338,7 +1338,7 @@ support for C.
 [108]: https://github.com/RandyGaul/tinyheaders
 [109]: https://github.com/compuphase/minIni
 [110]: https://www.openssl.org/
-[111]: https://www.openssl.org/source/license.html
+[111]: https://openssl-library.org/source/license/index.html
 [112]: http://www.gnutls.org/
 [113]: https://github.com/RhysU/c99sh
 [114]: https://github.com/nothings/stb
